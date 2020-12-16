@@ -1,0 +1,33 @@
+Limpia la pantalla de la terminal.
+    Clear
+
+Directorio de trabajo actual
+    pwd
+
+Cambiando al directorio raíz (root)
+    cd /
+
+Salir de la terminal
+    exit
+
+Muestra el tipo de archivo
+    file
+
+Muestra el inicio de un archivo
+    head
+
+Muestra el final de un archivo
+    tail
+
+Muestra el usuario actual
+    whoami
+
+Muestar todos los comandos escritos por el usuario
+    history
+
+Volver al directorio de inicio
+    cd --
+
+Para leer/editar archivos
+    vim archivo.txt
+    tecla "a" para editar, "esc" para salir de editar.
